@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+    <album>
+        <name>The King of Limbs</name>
+        <artist>Radiohead</artist>
+        <year>don't know</year>
+        <producer>don't know</producer>
+        <price>free</price>
+        <song title="Bloom" duration="5:15"/>
+        <song title="Morning Mr Magpie" duration="4:41"/>
+        <song title="Little by Little" duration="4:27"/>
+    </album>
+</albums>

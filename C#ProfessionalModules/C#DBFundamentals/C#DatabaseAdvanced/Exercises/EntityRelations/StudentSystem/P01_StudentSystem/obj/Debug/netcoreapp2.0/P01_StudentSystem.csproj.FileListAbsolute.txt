@@ -1,0 +1,15 @@
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.deps.json
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfo.cs
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.dll
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.json
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.dev.json
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.dll
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.dll
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.pdb
+C:\Users\user14415\source\repos\EntityRelationshipsExercise\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.pdb

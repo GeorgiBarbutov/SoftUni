@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student>
+        <name>Purvan</name>
+        <gender>male</gender>
+        <birthdate>1950/12/21</birthdate>
+        <phoneNumber>1234567890</phoneNumber>
+        <email>purvan@gmail.com</email>
+        <university>Mashinno-stroitelen universitet Dolni Bogrov</university>
+        <speciality>Chukane na kauchuk</speciality>
+        <facultyNumber>123423</facultyNumber>
+        <exams>
+            <name>Kovane na djilqzu</name>
+            <dateTaken>2019/01/01</dateTaken>
+            <grade>4.20</grade>
+        </exams>
+    </student>
+</students>

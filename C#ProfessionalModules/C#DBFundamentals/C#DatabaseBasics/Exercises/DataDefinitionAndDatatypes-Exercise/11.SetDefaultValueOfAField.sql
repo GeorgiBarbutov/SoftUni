@@ -1,0 +1,2 @@
+ALTER TABLE Users
+	ADD CONSTRAINT DF_Users_LastLogin DEFAULT (GETDATE()) FOR LastLogin

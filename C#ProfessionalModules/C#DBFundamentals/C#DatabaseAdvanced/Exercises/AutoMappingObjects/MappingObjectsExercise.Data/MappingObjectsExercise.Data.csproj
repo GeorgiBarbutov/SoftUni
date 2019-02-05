@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180724200630_ExerciseOneDone.cs" />
+    <Compile Remove="Migrations\20180725171210_AddedCount.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityFrameworkCore.SqlServer" Version="2.1.1" />
+    <PackageReference Include="microsoft.entityFrameworkCore.Tools" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MappingObjectsExercise.Data.Models\MappingObjectsExercise.Data.Models.csproj" />
+  </ItemGroup>
+
+</Project>

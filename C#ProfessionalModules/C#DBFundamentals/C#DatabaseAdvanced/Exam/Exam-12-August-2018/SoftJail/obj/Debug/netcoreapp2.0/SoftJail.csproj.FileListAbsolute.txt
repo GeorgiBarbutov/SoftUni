@@ -1,0 +1,11 @@
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\user14415\source\repos\Exam-12-August-2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojResolveAssemblyReference.cache
